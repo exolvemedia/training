@@ -1,2 +1,7 @@
 1. Ekerete
-2. Sojirin Seyikemi
+<<<<<<< HEAD
+
+=======
+2. Chidinma
+>>>>>>> b54c207702d52cf43f761695a9153ea4c75518c6
+3. Sojirin Seyikemi
